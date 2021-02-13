@@ -9,17 +9,20 @@ To seed database:
 To run this:
 
     npm start
-       or
+OR
+
     node server.js
 
 To run in developer mode:
 
     npm run dev
-       or
+OR
+
     nodemon server.js
     
 To run the tests:
 
     npm run test
-       or
+OR
+
     jest -i
