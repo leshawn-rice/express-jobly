@@ -6,7 +6,7 @@ To seed database:
     
     npm run seed
 
-To run this:
+To run:
 
     npm start
 
